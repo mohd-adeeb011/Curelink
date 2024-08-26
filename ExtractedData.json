@@ -1,0 +1,284 @@
+[
+    {
+        "ticket_id": "3a16cf52-26a0-47d6-8c91-9810039676ee",
+        "patient_profile": "Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 07:05 AM",
+        "plan_start_date": "2024-06-14T04:44:45Z",
+        "meals_to_take": [
+            "Soaked Methi seeds water",
+            "Soaked Almond",
+            "Soaked Walnut"
+        ],
+        "ideal_response": "Great job for having methi water, continue having it daily, it will help boost your metabolism.\nVarsha, but i also noticed that you are having figs and raisins but they are not presrcibed in the diet plan, can i know why you have added them ?",
+        "user_query": "Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)\nSent an image (The image shows a small metal bowl containing a variety of dried fruits and nuts. Visible items include a dried fig, almonds, walnuts, and raisins. The bowl is placed on a dark fabric surface, possibly someone's lap.) with the following caption Dry fruits.\nReplied to the following message: \"Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)\", with: \"Methi dana done\""
+    },
+    {
+        "ticket_id": "3a078f8d-b2b9-41af-a592-5f1c6cdd0484",
+        "patient_profile": "Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 08:24 AM",
+        "plan_start_date": "2024-06-14T04:44:45Z",
+        "meals_to_take": [
+            "Poha",
+            "Coriander Chutney  ",
+            "Toned Milk"
+        ],
+        "ideal_response": "Varsha, i noticed you are having upma instead of poha as prescribed in your diet plan, can you let me know why ?",
+        "user_query": "Sent an image (The image shows a bowl of a yellow-orange colored dish, likely a type of porridge or savory pudding, with visible black mustard seeds and small pieces of vegetables. A spoon is placed inside the bowl, suggesting it is ready to be eaten. The bowl is placed on a light-colored surface.) with the following caption One bowl vegetable upma."
+    },
+    {
+        "ticket_id": "8e342394-8e9f-42d5-9905-52d570fa9c2f",
+        "patient_profile": "Age - 29\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS with PCOS\nPatient Complaints - Difficulty in Conceiving, Facial Hairgrowth, Hair fall\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 08:40 AM",
+        "plan_start_date": "2024-06-12T18:30:00Z",
+        "meals_to_take": [
+            "Soya Oats Tikki",
+            "Curd Mint Dip"
+        ],
+        "ideal_response": "Shobhita, I noticed aap oats le rhe ho, which is a healthy choice, but maine aapki diet mein aloo parantha + curd likha tha, aapne vo nhi khaya ?",
+        "user_query": "Sent an image (The image shows a close-up of a container with a mixture of food items. It appears to contain chunks of potatoes, oats, and possibly some nuts or seeds, all mixed in a creamy liquid. A spoon is partially visible, indicating that the food is ready to be eaten. The container is placed on a surface with a purple fabric underneath.) with the following caption Breakfast.\nAnd yesterday i skipped on dinner \nPhoto click krna bhul gyi thi but i had barley daliya\nToday\u2019s weight after clearning stomach 73.4 kg"
+    },
+    {
+        "ticket_id": "4937b689-8013-4316-80ec-e66447c387c3",
+        "patient_profile": "Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 08:53 AM",
+        "plan_start_date": "2024-06-14T04:44:45Z",
+        "meals_to_take": [
+            "Poha",
+            "Coriander Chutney  ",
+            "Toned Milk"
+        ],
+        "ideal_response": "Great job on following your diet plan, keep it up!",
+        "user_query": "Sent an image (The image shows a cup filled with milk. The cup has a design that resembles the texture of a tree trunk with visible rings and cracks. The cup is placed on a table with a colorful, possibly floral, tablecloth. In the background, there is a wooden cabinet with a pair of shoes on one of its shelves.) with the following caption 1 cup of milk without sugar only add one cardamom."
+    },
+    {
+        "ticket_id": "144d6db8-d7ad-482b-9de3-540bf39127f5",
+        "patient_profile": "Age - 27\nPatient Preferred Language - ENGLISH\nPatient Conditions - Weight Management\nPatient Complaints - Irregular Periods\nDiet Preference - Nonveg\n",
+        "query_time": "June 14, 2024, 10:10 AM",
+        "plan_start_date": "2024-06-10T18:30:00Z",
+        "meals_to_take": [
+            "Apple",
+            "Buttermilk",
+            "Poha"
+        ],
+        "ideal_response": "Great job sticking to your meal plan! Keep it up!",
+        "user_query": "Sent an image (The image shows a white mug filled with a red beverage, placed on a white plate with a blue decorative border. On the plate, there are several almonds and pieces of walnuts. The background appears to be a dark, textured surface.) with the following caption I have done \u2714\ufe0f 7:00am meal \ud83d\ude0b \ud83d\ude0d \ud83d\udc4c.\nSent an image (The image shows a bowl of cereal with milk placed on a decorative plate. A spoon is partially visible in the bowl, and the setup is on a wooden surface. The cereal appears to be a type of flake cereal.)"
+    },
+    {
+        "ticket_id": "8a280b8a-26ab-40f5-bb1d-22b1aa4e47f3",
+        "patient_profile": "Age - 45\nPatient Preferred Language - ENGLISH\nPatient Conditions - Weight Management with PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 10:14 AM",
+        "plan_start_date": "2024-06-12T18:30:00Z",
+        "meals_to_take": [],
+        "ideal_response": "Great job aarti, why have you not included milk ?",
+        "user_query": "Sent an image (The image shows a stainless steel plate containing a serving of cooked food, which appears to be a grain-based dish with vegetables, possibly upma or khichdi. There is also a portion of green chutney or sauce on the side, and a spoon is placed on the plate.) with the following caption Beark fast."
+    },
+    {
+        "ticket_id": "15d414f1-3afc-4b4b-adc6-fafc3eaf3f8f",
+        "patient_profile": "Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 11:08 AM",
+        "plan_start_date": "2024-06-14T04:44:45Z",
+        "meals_to_take": [
+            "Apple",
+            "Sesame seeds",
+            "Sunflower seeds"
+        ],
+        "ideal_response": "Great job, keep it up! Sesame and sunflower seeds are great source of omega 3 fatty acid which help regulate your period cycle.",
+        "user_query": "Sent an image (The image shows a close-up of a bowl containing pomegranate seeds and almond slices. The bowl is metallic, and there is a spoon inside it. The background appears to be a tablecloth with a partial view of a colorful design.) with the following caption Pomegranate with 1 spoon seasme seeds and 1 spoon  sunflower seeds."
+    },
+    {
+        "ticket_id": "158e30e7-eb1b-4986-8515-05180028d296",
+        "patient_profile": "Patient Preferred Language - ENGLISH\nPatient Conditions - Weight Management\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 11:23 AM",
+        "plan_start_date": "2024-06-08T18:30:00Z",
+        "meals_to_take": [
+            "Apple",
+            "Mixed Seeds"
+        ],
+        "ideal_response": "Good job, coconut water is great source of potassium. Why have you not included seeds with this ?",
+        "user_query": "1 Nariyal Panni"
+    },
+    {
+        "ticket_id": "1bc93246-b66f-409f-bbc1-dfec4cd2ae8d",
+        "patient_profile": "Patient Preferred Language - ENGLISH\nPatient Conditions - Weight Management with Asthma, Hypertension\nPatient Complaints - Constipation\nDiet Preference - Nonveg\n",
+        "query_time": "June 14, 2024, 12:03 PM",
+        "plan_start_date": "2024-06-10T18:30:00Z",
+        "meals_to_take": [
+            "Pomegranates",
+            "Flax Seeds"
+        ],
+        "ideal_response": "Rupa, I noticed that you were prescribed mixed veg vermicili, can you let know why are you having idli ?",
+        "user_query": "Sent an image (The image shows a plate with a few pieces of food, possibly idli, which is a type of South Indian steamed rice cake. There is also a small amount of white sauce or chutney on the plate. The plate has a simple design with a green dot and black lines. The background includes a colorful, floral-patterned tablecloth.) with the following caption Idly with chutney."
+    },
+    {
+        "ticket_id": "e2ef7155-002b-4bdf-a8ef-270a8c59b025",
+        "patient_profile": "Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 12:32 PM",
+        "plan_start_date": "2024-06-14T04:44:45Z",
+        "meals_to_take": [
+            "Oats Roti",
+            "Lauki Chane Ki dal",
+            "Zeera Raita",
+            "Tomato Cucumber Salad"
+        ],
+        "ideal_response": "Great job for having oats roti, salad and curd, but i noticed you are not having lauki chana dal as prescribed in the diet plan, can you let me know the reason ?",
+        "user_query": "Sent an image (The image shows a meal served on a metal plate. The meal includes:\n\n1. A stuffed paratha (Indian flatbread).\n2. A serving of green chutney.\n3. A bowl with three boiled eggs in a yellowish liquid, likely a curry.\n4. A bowl of sliced cucumbers.\n5. A glass of buttermilk or yogurt with herbs sprinkled on top.\n\nThe plate is placed on a patterned tablecloth.) with the following caption 2 Oats wheat roti add veggies.. and coriander chutni nd little onion sbji nd I added mint and cumin in  buttermilk.\nWd salad"
+    },
+    {
+        "ticket_id": "ca331178-80da-48f8-a3a5-d483fa0391ea",
+        "patient_profile": "Age - 27\nPatient Preferred Language - ENGLISH\nPatient Conditions - Weight Management\nPatient Complaints - Irregular Periods\nDiet Preference - Nonveg\n",
+        "query_time": "June 14, 2024, 01:18 PM",
+        "plan_start_date": "2024-06-10T18:30:00Z",
+        "meals_to_take": [
+            "Oats Idli",
+            "Sambar",
+            "Beetroot Salad"
+        ],
+        "ideal_response": "Great job! I just checked, you are having sunflower and sesame seeds, but i have mentioned pumpkin and flax seeds in your diet .",
+        "user_query": "Sent an image (The image shows a bowl with a floral pattern containing pieces of orange fruit, likely papaya, sprinkled with sesame seeds and sunflower seeds. There is a spoon in the bowl, suggesting the dish is ready to be eaten. The bowl is placed on a grey countertop.) with the following caption I have done \u2714\ufe0f meal 11:30am.\nSent an image (This image is a detailed meal plan for Day 4, Friday, dated 14-06-2024. It outlines specific foods and beverages to be consumed at various times throughout the day, along with their quantities and some preparation instructions. The schedule includes:\n\n- **Early Morning (08:00 AM):** Cinnamon water, soaked almonds, and soaked walnuts.\n- **Breakfast (10:00 AM):** Apple cinnamon overnight oats.\n- **Mid Meal (11:00 AM):** Pomegranates and coconut water.\n- **Lunch (02:00 PM):** Bajra roti, plain toor dal, curd, and tomato cucumber salad.\n- **Evening (05:00 PM):** Spearmint tea, roasted kala chana, flax seeds, and pumpkin seeds.\n- **Dinner (08:00 PM):** Boiled sprouts with cucumber and tomato.\n- **Post Dinner (10:00 PM):** Jeera water.\n\nThe plan also includes some nutritional tips and preparation notes for each meal.)\nSent an image (The image shows a packet of milk from Mother Dairy placed on a countertop. In front of the milk packet, there is a bowl containing a mixture of seeds and nuts, possibly in yogurt or milk. The seeds and nuts include pumpkin seeds, flax seeds, and other assorted seeds.) with the following caption I have done before 30 minutes  drink  \ud83c\udf78 Buttermilk."
+    },
+    {
+        "ticket_id": "ffa2b043-7c9f-43e3-b434-7f874f01b916",
+        "patient_profile": "Age - 27\nPatient Preferred Language - ENGLISH\nPatient Conditions - Weight Management\nPatient Complaints - Irregular Periods\nDiet Preference - Nonveg\n",
+        "query_time": "June 14, 2024, 01:53 PM",
+        "plan_start_date": "2024-06-10T18:30:00Z",
+        "meals_to_take": [
+            "Oats Idli",
+            "Sambar",
+            "Beetroot Salad"
+        ],
+        "ideal_response": "Charleen, why are you having only paneer ?",
+        "user_query": "Sent an image (The image shows a plate with a floral design containing several small, rectangular pieces of white cheese, likely paneer. The plate is placed on a surface with a patterned cloth.)\nReplied to the following message: \"Sent an image (The image shows a plate with a floral design containing several small, rectangular pieces of white cheese, likely paneer. The plate is placed on a surface with a patterned cloth.)\", with: \"Only Salad \ud83e\udd57 \ud83d\ude0b\""
+    },
+    {
+        "ticket_id": "206b8b1e-25f6-48fb-9271-524f1752f27c",
+        "patient_profile": "Age - 45\nPatient Preferred Language - ENGLISH\nPatient Conditions - Weight Management with PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 02:22 PM",
+        "plan_start_date": "2024-06-12T18:30:00Z",
+        "meals_to_take": [
+            "Vegetable Dalia",
+            "Tomato Curry",
+            "Curd"
+        ],
+        "ideal_response": "Aarti, aap konsi sabzi kha rhe ho ?",
+        "user_query": "Sent an image (The image shows a meal consisting of a plate with sliced cucumbers and tomato wedges, and a metal tray with flatbreads (possibly chapati or roti), a bowl of curry, and a bowl of yogurt or raita. The setting appears to be on a table with a patterned tablecloth.) with the following caption Lunch."
+    },
+    {
+        "ticket_id": "cb61d429-1350-41e0-b312-e83a01be382b",
+        "patient_profile": "Age - 28\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS with PCOS\nPatient Complaints - Facial Hairgrowth, Irregular Periods\nDiet Preference - Eggetarian\n",
+        "query_time": "June 14, 2024, 02:28 PM",
+        "plan_start_date": "2024-06-13T18:30:00Z",
+        "meals_to_take": [
+            "Oats Roti",
+            "Jeera Lauki",
+            "Tomato Cucumber Salad",
+            "Curd"
+        ],
+        "ideal_response": "Try to share picture of the entire meal, so that we can review accordingly. Keep it up!",
+        "user_query": "Yes mam I added later"
+    },
+    {
+        "ticket_id": "699bb2fa-0192-47df-ae49-dafd50c42238",
+        "patient_profile": "Patient Preferred Language - ENGLISH\nPatient Conditions - Weight Management\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 02:33 PM",
+        "plan_start_date": "2024-06-08T18:30:00Z",
+        "meals_to_take": [
+            "Brown rice",
+            "Black chana curry",
+            "Tomato Cucumber Salad",
+            "Cucumber Raita"
+        ],
+        "ideal_response": "Great choice, makhana and peanuts are rich in calcium and protien.",
+        "user_query": "Sent an image (The image shows a metal bowl containing a mix of roasted peanuts and puffed lotus seeds (makhana). The bowl is placed on a beige fabric with a pink embroidered design.)\n1 glass milk @ 11:30\nReplied to the following message: \"Sent an image (The image shows a metal bowl containing a mix of roasted peanuts and puffed lotus seeds (makhana). The bowl is placed on a beige fabric with a pink embroidered design.)\", with: \"@ 2:30\""
+    },
+    {
+        "ticket_id": "53a39079-04ce-440f-8fe6-4a6d1e6a570d",
+        "patient_profile": "Patient Preferred Language - ENGLISH\nPatient Conditions - Weight Management with Asthma, Hypertension\nPatient Complaints - Constipation\nDiet Preference - Nonveg\n",
+        "query_time": "June 14, 2024, 03:47 PM",
+        "plan_start_date": "2024-06-10T18:30:00Z",
+        "meals_to_take": [],
+        "ideal_response": "Your meal looks good, you can add curd and more salad in your meal to make it complete.",
+        "user_query": "Sent an image (The image shows a plate of food that includes a bowl of yellow lentil soup (dal) with a spoon in it, a piece of flatbread (roti), some cooked vegetables, and a slice of raw onion. The plate is placed on a table with a patterned tablecloth. A person's foot wearing a sandal is visible at the bottom of the image.) with the following caption Moong dal , little cabbage, jowar roti for lunch."
+    },
+    {
+        "ticket_id": "caf28ae3-7327-4f61-ae15-2c18597d8e3e",
+        "patient_profile": "Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 04:24 PM",
+        "plan_start_date": "2024-06-14T04:44:45Z",
+        "meals_to_take": [
+            "Roasted Salted Makhana",
+            "Spearmint Tea"
+        ],
+        "ideal_response": "Nice choice! Makhana and spearmint tea are great for your diet. Keep it up!",
+        "user_query": "Sent an image (The image shows a small metal bowl filled with puffed snacks, likely makhana (fox nuts), and a ceramic cup with a wooden texture design containing a yellowish liquid, possibly tea. The items are placed on a fabric surface with a striped pattern visible in the background.) with the following caption Makhana nd spearmint tea."
+    },
+    {
+        "ticket_id": "9f991db6-ed10-4613-b597-040ae4cf6d92",
+        "patient_profile": "Age - 29\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS with PCOS\nPatient Complaints - Difficulty in Conceiving, Facial Hairgrowth, Hair fall\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 04:42 PM",
+        "plan_start_date": "2024-06-12T18:30:00Z",
+        "meals_to_take": [
+            "Spearmint Tea",
+            "Boiled Chana with Onion Tomato",
+            "Sesame seeds",
+            "Sunflower seeds"
+        ],
+        "ideal_response": "Good shobhita, I hope you had curd and salad along with roti and bhindi. Also, I would suggest you to have 1 apple instead of 2 and after how much gap did you have the apples ?",
+        "user_query": "i had bhindi and oats roti 2 in lunch a\nand right now i had 2 apple pealed\ni forgot to click pictures due to office hours"
+    },
+    {
+        "ticket_id": "d9cc7206-f263-4e5f-a095-f3dbb12d3fcc",
+        "patient_profile": "Age - 29\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS with PCOS\nPatient Complaints - Difficulty in Conceiving, Facial Hairgrowth, Hair fall\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 05:41 PM",
+        "plan_start_date": "2024-06-12T18:30:00Z",
+        "meals_to_take": [
+            "Spearmint Tea",
+            "Boiled Chana with Onion Tomato",
+            "Sesame seeds",
+            "Sunflower seeds"
+        ],
+        "ideal_response": "Shobhita, as mentioned on your diet chart, your dinner was planned at 8pm, any reasons why you are taking it so early ?",
+        "user_query": "Sent an image (The image shows a glass container filled with a colorful vegetable and tofu stir-fry. The dish includes red, green, and yellow bell peppers, tomatoes, and tofu cubes, all mixed together. The container is placed on a wooden surface, and part of a person's arm, a bottle of hand sanitizer, and a laptop are visible in the background.) with the following caption Dinner."
+    },
+    {
+        "ticket_id": "7bcaa083-5f9e-4142-9976-9172ed6e5c90",
+        "patient_profile": "Age - 29\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS with PCOS\nPatient Complaints - Difficulty in Conceiving, Facial Hairgrowth, Hair fall\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 06:04 PM",
+        "plan_start_date": "2024-06-12T18:30:00Z",
+        "meals_to_take": [],
+        "ideal_response": "Prefer to maintain a gap of 20-30 mins between Solid foods and fluids to ensure better absorption rate",
+        "user_query": "Also i had lemon tea with it"
+    },
+    {
+        "ticket_id": "84447c63-2773-488c-a799-c1702c200bff",
+        "patient_profile": "Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 08:58 PM",
+        "plan_start_date": "2024-06-14T04:44:45Z",
+        "meals_to_take": [
+            "Daliya With Green Beans",
+            "Mint Chutney  ",
+            "Turmeric Warm Water"
+        ],
+        "ideal_response": "You can add honey to lemon water but skip the salt. Jeera water and sauf ka pani is fine, Your vegetable dalia looks good! Keep it up!",
+        "user_query": "Lemon water m honey or salt add kr skte h n?\nJeera water or souf water add nh kr skte kya?\nSent an image (The image shows a close-up of a bowl of cooked food, likely a type of soup or stew. The dish appears to contain small grains or lentils, along with pieces of vegetables and possibly some spices. The food has a reddish-brown color, indicating it might be seasoned with spices or a tomato-based sauce. A spoon is partially visible in the bowl.) with the following caption Vegetable dalia."
+    },
+    {
+        "ticket_id": "42eed415-aee2-4ced-8772-89c086b779dc",
+        "patient_profile": "Patient Preferred Language - ENGLISH\nPatient Conditions - Weight Management\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 10:25 PM",
+        "plan_start_date": "2024-06-08T18:30:00Z",
+        "meals_to_take": [
+            "Ajwain Water"
+        ],
+        "ideal_response": "Great choice! Ajwain water is excellent for digestion. Keep it up!",
+        "user_query": "Night drink\nAjwain"
+    },
+    {
+        "ticket_id": "05c707a6-aa65-4411-be6a-834af5df2ddd",
+        "patient_profile": "Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n",
+        "query_time": "June 14, 2024, 10:35 PM",
+        "plan_start_date": "2024-06-14T04:44:45Z",
+        "meals_to_take": [],
+        "ideal_response": "Great choice, the diet plan mentioned popcorn but you are having makahna which are even healthier and a great source of fiber and calcium.",
+        "user_query": "Sent an image (The image shows a metallic cup filled with a brown liquid, likely tea or coffee, with a metallic spoon inside. The cup is placed on a textured surface, possibly a cloth or towel.) with the following caption Turmeric water."
+    }
+]
