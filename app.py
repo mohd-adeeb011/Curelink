@@ -115,8 +115,7 @@ for i in range(len(data)):
             "user_query" : all_content,
         })
 
-        print(f"Meal Period is around {query_time_of_patient} and the recommended meals are {meal_names}")
-        print("========================================================================")
+        print(f"Meal Period is around {query_time_of_patient} and the recommended meals are {meal_names}"
         
     except KeyError as e:
         print(f"Error processing entry {i}: Missing key {e}")
@@ -129,7 +128,3 @@ with open("output_data.json", 'w') as file:
 
 print("Relevant data has been written to 'output_data.json'")
 
-
-# for i in data:
-#     response = [for i in data[i]["ideal_response"]]
-#     all_response = "\n".join(response)
